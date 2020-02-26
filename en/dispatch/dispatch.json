@@ -1,0 +1,6 @@
+{
+    "driverBadgeTitle": {
+        "message": "Greet your driver", 
+        "description": "Name of the badge which appears on the car."
+    }
+}
