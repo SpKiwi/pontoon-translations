@@ -1,6 +1,19 @@
 {
     "driverBadgeTitle": {
-        "message": "Greet your driver", 
+        "message": "This is your driver", 
         "description": "Name of the badge which appears on the car."
+    },
+    "driverRating": {
+        "message": "Your driver's name is $name$ and his rating's $rating$",
+        "placeholders": {
+            "name": {
+                "content": "$1",
+                "example": "Johnny"
+            },
+            "rating": {
+                "content": "$2",
+                "example": "5"
+            }
+        }
     }
 }
